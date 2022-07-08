@@ -40,8 +40,13 @@ And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
 ## Installation
+1.clone project
+2.install venv
+3.install requirements
+4.make migrations
+5.python3 manage3 runserver
 
-Just open browser and type yatube.com
+Just open browser and type 127.0.0.1:8000
 
 
 ## Plugins
@@ -53,8 +58,6 @@ Instructions on how to use them in your own application will be late
 ## Development
 
 Want to contribute? Great!
-
-
 
 
 
